@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EgoSpace
-- 👀 I’m interested in backend engineering
-- 🌱 I’m currently learning frontend development
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently done with software development program
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me via Peace Nnorom ON LINKEDIN
 - 😄 Pronouns: ...
