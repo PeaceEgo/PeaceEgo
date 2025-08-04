@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EgoSpace
-- 👀 I’m interested in Software engineering
-- 🌱 I’m currently done with software development program
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m a Software Developer
+- 🌱 I’m currently done with my software development program
+- 💞️ I’m looking to collaborate on projects 
 - 📫 How to reach me via Peace Nnorom ON LINKEDIN
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
